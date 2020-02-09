@@ -12,6 +12,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+# bme680_record.py
+Records data from the BME680 sensor to the file: `bme680.csv`.
+
 # bme680_simpletest.py
 Copied from [Adafruit_CircuitPython_BME680](https://github.com/adafruit/Adafruit_CircuitPython_BME680).
 
