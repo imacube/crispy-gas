@@ -1,5 +1,7 @@
 import csv
 import time
+from datetime import datetime
+
 import board
 from busio import I2C
 import adafruit_bme680
@@ -20,7 +22,8 @@ def main(csv_writer):
         # print("Pressure: %0.3f hPa" % bme680.pressure)
         # print("Altitude = %0.2f meters" % bme680.altitude)
 
-        data = bme680.temperature, bme680.gas, bme680.humidity, bme680.pressure, bme680.altitude
+        data = datetime.now().isoformat(), \
+               bme680.temperature, bme680.gas, bme680.humidity, bme680.pressure, bme680.altitude
 
         csv_writer.writerow(data)
         print(data)
