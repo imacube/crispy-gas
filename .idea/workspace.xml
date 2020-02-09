@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="763071b1-500a-4eeb-9311-18937a7bf9be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bme680_record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,27 +58,43 @@
       <option name="project" value="LOCAL" />
       <updated>1581226986353</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added basic script for recording data">
+      <created>1581227722501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581227722501</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PyCharm file changes">
+      <created>1581227749384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581227749384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit of sample code with some updates to README.md" />
     <MESSAGE value="Further updates for necessary python packages and README.md instlal notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Further updates for necessary python packages and README.md instlal notes" />
+    <MESSAGE value="Added basic script for recording data" />
+    <MESSAGE value="PyCharm file changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyCharm file changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="437" y="27" width="782" height="873" key="CommitChangelistDialog2" timestamp="1581227722258">
+    <state x="437" y="27" width="782" height="873" key="CommitChangelistDialog2" timestamp="1581227749286">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="437" y="27" width="782" height="873" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1581227722258" />
+    <state x="437" y="27" width="782" height="873" key="CommitChangelistDialog2/67.27.1533.873@67.27.1533.873" timestamp="1581227749286" />
     <state x="322" y="97" key="SettingsEditor" timestamp="1581223273259">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1581223273259" />
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581227723117">
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1581227751555">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1581227723117" />
+    <state x="428" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1533.873@67.27.1533.873" timestamp="1581227751555" />
   </component>
 </project>
